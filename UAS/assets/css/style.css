@@ -78,11 +78,11 @@ body {
   }
 
   .main-background {
-      background-image: url('../image/tea-2119434_1280.webp'); /* Replace with your background image URL */
-      background-size: cover; /* Make sure the background covers the entire section */
-      background-position: center; /* Center the background image */
-      width: 100vw; /* Full width of the viewport */
-      height: 100vh; /* Full height of the viewport or adjust as needed */
+      background-image: url('../image/tea-2119434_1280.webp'); 
+      background-size: cover;
+      background-position: center; 
+      width: 100vw; 
+      height: 100vh; 
       display: flex;
       justify-content: center;
       align-items: center;
@@ -91,10 +91,10 @@ body {
     }
 
   .main {
-      max-width: 800px; /* Adjust the max-width as needed */
-padding: 20px; /* Padding inside the text container */
+      max-width: 800px;
+padding: 20px; 
 color: white;
-border-radius: 10px; /* Optional: rounded corners */
+border-radius: 10px; 
 }
     .main {
           width: 100%;
@@ -116,10 +116,10 @@ border-radius: 10px; /* Optional: rounded corners */
           max-width: 600px; 
       }
       .main img {
-        border: 1px transparent; /* Adjust border thickness and color */
-        border-radius: 50px; /* Adjust border-radius */
-        width: 300px; /* Adjust width as needed */
-        height: auto; /* Maintain aspect ratio */
+        border: 1px transparent;
+        border-radius: 50px; 
+        width: 300px; 
+        height: auto; 
       }
 
       .product-section {
@@ -215,9 +215,9 @@ border-radius: 10px; /* Optional: rounded corners */
         }
 
       .vertical-line {
-          border-left: 3px solid #d9b74e; /* Adjust thickness and color as needed */
-          height: 150px; /* Adjust height as needed */
-          margin: 0 20px; /* Adjust horizontal spacing */
+          border-left: 3px solid #d9b74e; 
+          height: 150px; 
+          margin: 0 20px; 
       }
       
       .contact {
